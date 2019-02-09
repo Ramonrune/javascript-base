@@ -7,6 +7,7 @@ console.log(s.lastIndexOf("comming"));
 console.log(s.slice(4, 10));
 console.log(s.slice(4, -8));
 
+console.log(s)
 console.log(s.substr(4, 6));
 
 console.log(s.replace("winter", "summer"));
